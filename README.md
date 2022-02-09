@@ -23,7 +23,7 @@ https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1021.001/T10
 Only for analysis do not use without authorization. Only for educational purpose.
 
 # Contact
-If you want to help me with any suggestions please contact me to percin0@protonmail.com :) 
+If you want to help me with any suggestions please contact me to percin0@protonmail.com :)  Be patient, I'll update the ngrok component!
 
 
 # Screenshot
