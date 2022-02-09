@@ -31,7 +31,7 @@ If you want to help me with any suggestions please contact me to percin0@protonm
 RDPerci on victim without RDP enable.
 ![Cattura](https://user-images.githubusercontent.com/94323404/153262514-2ad28c12-bf36-44db-af89-9e6c65530077.PNG)
 
-Connection with the new user's credentials and the new port.
+Connection with the new user's credentials and the new port from remote host.
 ![Cattura2](https://user-images.githubusercontent.com/94323404/153262576-7ffbf271-004d-4297-ae8c-af9b543d421c.PNG)
 
 ![Cattura3](https://user-images.githubusercontent.com/94323404/153262682-06d76a32-d925-446b-b4ce-ce1a16c332b1.PNG)
