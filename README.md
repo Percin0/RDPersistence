@@ -19,7 +19,7 @@ https://attack.mitre.org/techniques/T1021/001/
 
 https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1021.001/T1021.001.md
 
-# Disclamer 
+# Disclaimer  
 Only for analysis do not use without authorization. Only for educational purpose.
 
 # Contact
